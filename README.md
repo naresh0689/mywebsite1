@@ -1,2 +1,2 @@
 # mywebsite1
-Sample website code
+This is source code from a Sample website.
